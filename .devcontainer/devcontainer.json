@@ -4,12 +4,16 @@
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {}
   },
-  "extensions": [
-    "github.copilot",
-    "ms-python.python"
-  ],
-  "postCreateCommand": "pip install -r requirements.txt || true",
-  "settings": {
-    "python.pythonPath": "/usr/local/bin/python"
-  }
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.copilot",
+        "ms-python.python"
+      ],
+      "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+      }
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt || true"
 }
