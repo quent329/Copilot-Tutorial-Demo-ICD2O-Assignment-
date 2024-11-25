@@ -6,7 +6,7 @@ Welcome to my GitHub Copilot tutorial/demo! This repository will guide you on th
 
 1. **Open a Codespace**:
    - Click the `<> Code` button.
-   - Select `Open with Codespaces` to launch the environment.
+   - Select `Open codespace on main` to launch the environment.
 
 2. **Prerequisites**:
    - You will either need a subscription fo GitHub Copilot or the Github Student Developer Pack in order to proceed.
