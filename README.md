@@ -12,7 +12,7 @@ Welcome to my GitHub Copilot tutorial/demo! This repository will guide you on th
    - You will either need a subscription fo GitHub Copilot or the Github Student Developer Pack in order to proceed.
 
 3. **Practices/Demos**:
-   - Navigate to the `Practice` folder.
+   - Navigate to the `Activities` folder.
    - Follow the instructions in the `Instructions.txt` file:
      - `Demo1.py`: Area of a rectangle Function
      - `Demo2.py`: Calculation, Positive or Negative, and Odd or Even Function
