@@ -13,12 +13,12 @@ Welcome to my GitHub Copilot tutorial/demo! This repository will guide you on th
 
 3. **Practices/Demos**:
    - Navigate to the `Practice/` folder.
-   - Follow the instructions in each `.py` file:
-     - `Demo1.py`: Writing simple functions.
-     - `Demo2.py`: Debugging with Copilot.
-     - `Demo3.py`: Building a mini feature.
-     - `Demo4.py`:
-     - `Demo5.py`:
-     - `Demo6.py`:
+   - Follow the instructions in the `Instructions.txt` file:
+     - `Demo1.py`: Area of a rectangle Function
+     - `Demo2.py`: Calculation, Positive or Negative, and Odd or Even Function
+     - `Demo3.py`: Grading Function
+     - `Demo4.py`: Pythagorean Theorem Function
+     - `Demo5.py`: Palindrome Function
+     - `Demo6.py`: Debugging with GitHub Copilot
 
 Happy coding! 
