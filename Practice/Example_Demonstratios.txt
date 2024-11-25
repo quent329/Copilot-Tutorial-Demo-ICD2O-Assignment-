@@ -1,0 +1,7 @@
+## Example 1:
+
+Make a function sqrt() that finds the square root of an inputed float and prints it out.
+
+## Example 2:
+
+Create a function that uses variables, a, b, and c, to find ONE of the values of x using the quadratic formula. 

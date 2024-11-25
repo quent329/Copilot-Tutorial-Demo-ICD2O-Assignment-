@@ -8,3 +8,18 @@ The function must return/print out the area of the rectangle once the two parame
 In the Demo2.py file, write a program that checks if the sum or difference of two variables,
 a and b, is positive or negative and even or odd. 
 
+## Instructions for Demo3.py
+
+In this file, define a function that prints you back a letter grade based off of a number from 0-100.
+If the number is <= 90, the grade is an A, if it is 80-89, the grade is a B, if it is 70-79, the grade 
+is a C, if < 70, it is prints "fail".
+
+## Instructions for Demo4.py
+
+In this file, create a function with two parameters, a and b, that follows the Pythagorean Theorem. 
+However, instead of C squared, the program must just return C itself (Hint: You will need to import math).
+
+## Instructions for Demo5.py
+
+In this file, create a function is_palindrome that is printed true if an inputed string has the same letters
+front and back. 
