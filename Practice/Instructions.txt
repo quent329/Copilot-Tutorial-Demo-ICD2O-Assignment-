@@ -1,4 +1,10 @@
+## Instructions for Demo1.py
+
 In the Demo1.py file, write a function with two parameters, width and height, for a rectangle. 
 The function must return/print out the area of the rectangle once the two parameter values have been given.
 
-In the Demo2.py file, 
+## Instructions for Demo2.py
+
+In the Demo2.py file, write a program that checks if the sum or difference of two variables,
+a and b, is positive or negative and even or odd. 
+
